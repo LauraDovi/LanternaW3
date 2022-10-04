@@ -70,7 +70,7 @@ public class LanternaTest {
 
                 }
             }
-
+            System.out.println("Change 1");
             terminal.flush(); //skriver ut på skärm, altid i sluted
 
         }
